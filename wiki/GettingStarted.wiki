@@ -8,9 +8,9 @@
 
 1) Download the sources from svn (follow the instructions in the "Source" section).
 
-2) Create a new directory named "HttpSvr" under "sketchbook/libraries" on your computer
+2) Create a new directory named "{{{HttpSvr}}}" under "sketchbook/libraries" on your computer
 
-3) Copy the entire content of "trunk" as downloaded in step 1) in the "sketchbook/libraries/HttpSvr" directory created in step 2).
+3) Copy the entire content of "trunk" as downloaded in step 1) in the "sketchbook/libraries/{{{HttpSvr}}}" directory created in step 2).
 
 = Run the example =
 
