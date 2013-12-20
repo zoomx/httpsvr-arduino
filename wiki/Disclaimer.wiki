@@ -1,5 +1,5 @@
+#summary Disclaimer of Warranties and Limitation of Liability
 #labels Disclaimer
-#Disclaimer of Warranties and Limitation of Liability
 
 = Introduction =
 This is for troublemakers. If you are not one of them, or you are not a lawyer, just let it be and have fun with more interesting things.
